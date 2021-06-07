@@ -1,0 +1,37 @@
+form{
+    font-family: Arial,sans-serif;
+    color: white;
+	text-shadow: 0 0 30px red;
+}
+
+input{
+    border-radius: 10px;
+}
+
+
+h2{
+    font-family:"Old English Text MT" ;
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 30px red;
+
+
+}
+body{
+    background-image: url("wooden2.jpg");
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    /* background:linear-gradient(60deg,darkmagenta,darksalmon,crimson) ;*/
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+
+label{
+	margin-right:80%;
+}
